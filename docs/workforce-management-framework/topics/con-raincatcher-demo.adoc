@@ -1,0 +1,8 @@
+[id='con-raincatcher-demo-{chapter}']
+=  {WFM-RC-NameLong} Demo Application
+
+{WFM-RC-NameLong} contains a demo application which contains many of the {WFM-RC-NameLong} features.
+The demo contains:
+
+* Implementations for a Workflow Management Solutions
+* Website, Mobile and server demo applications serving as reference implementations for the {WFM-RC-NameLong} framework

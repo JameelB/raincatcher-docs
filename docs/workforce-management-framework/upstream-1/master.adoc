@@ -1,7 +1,7 @@
 include::topics/shared/attributes.adoc[]
 
 = {WFM-RC-NameLong}
-Reference Documentation for {WFM-RC-NameLong}
+
 :sectnums:
 :toc: left
 :toclevels: 5
@@ -11,7 +11,7 @@ Reference Documentation for {WFM-RC-NameLong}
 
 [[introducing-raincatcher]]
 == Introducing {WFM-RC-NameLong}
-include::overview-of-raincatcher.adoc[leveloffset=+2]
+include::understanding-raincatcher.adoc[leveloffset=+2]
 include::introducing-the-features-of-raincatcher.adoc[leveloffset=+2]
 
 [[preparing-the-local-development-environment]]

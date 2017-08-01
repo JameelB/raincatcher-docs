@@ -1,0 +1,7 @@
+[id='con-rapid-application-development-framework-{chapter}']
+=  Rapid Application Development Framework
+
+The {WFM-RC-NameLong} Rapid Application Development Framework allows to build production-grade
+Node.js and Cordova based applications.
+
+image:../../shared/images/technologies.png[Technologies]

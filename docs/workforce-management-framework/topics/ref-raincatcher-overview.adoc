@@ -1,0 +1,20 @@
+[id='ref-workflow-management-framework-{chapter}']
+=  Workflow Management Framework Reference Information
+
+The {WFM-RC-NameLong} Workflow Management Framework contains 3 components.
+Developers can write custom Tasks that will implement any business logic and link implementation with any UI solution.
+The Framework abstracts the developer from any web or mobile application libraries which allows developers to focus on implementing the process.
+
+.Workflow Management Framework Components
+|===
+|*Component* |*Use Case*
+
+|Task
+|Defines single unit of work for business process, that is, workflow steps
+
+|Flow
+|Contain ordered set of tasks and handlers for executing tasks in proper order
+
+|Process
+|Instance of flow containing current progress and business objects.
+|===
