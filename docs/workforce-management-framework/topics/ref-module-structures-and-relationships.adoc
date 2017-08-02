@@ -1,4 +1,4 @@
-[id='ref-module-struct-and-rels-{chapter}']
+[id='ref-module-structures-and-relationships-{chapter}']
 = Module Structure and Relationship Reference Information
 
 Raincatcher-AngularJS Application
