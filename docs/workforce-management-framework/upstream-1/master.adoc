@@ -22,7 +22,7 @@ include::introducing-the-features-of-raincatcher.adoc[leveloffset=+2]
 
 [[programming-a-raincatcher-project]]
 == Programming a {WFM-RC-NameShort} Project
-include::using-raincatcher-logger-and-setting-a-logging-level.adoc[leveloffset=+2]
+include::using-wfm-logger-and-setting-a-logging-level.adoc[leveloffset=+2]
 
 [[testing-a-raincatcher-project]]
 == Testing a {WFM-RC-NameShort} Project
@@ -32,10 +32,6 @@ include::using-raincatcher-logger-and-setting-a-logging-level.adoc[leveloffset=+
 
 [[raincatcher-modules-reference]]
 == {WFM-RC-NameShort} Modules Reference
-
-[[raincatcher-appendix]]
-== {WFM-RC-NameShort} Appendix
-include::raincatcher-reference-material.adoc[leveloffset=+2]
 
 // **********************************
 // * Appendix: Revision Information *

@@ -4,7 +4,4 @@
 The {WFM-RC-NameLong} Rapid Application Development Framework allows to build production-grade
 Node.js and Cordova based applications.
 
-//Hard coded link pointing to the version of module in (docs/workforce-management-framework/upstream-1/raincatcher-reference-material.adoc) 
-For more information, see xref:ref-rapid-application-development-framework-raincatcher-reference-material[Rapid Application Development Framework Reference Information]
-
 image:../../shared/images/technologies.png[Technologies]
